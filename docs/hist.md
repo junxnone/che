@@ -1,5 +1,6 @@
 # Wiki History
 
+- 2024-07-13&nbsp;&nbsp; [比亚迪](/0006_品牌_BYD)&nbsp;&nbsp; :bookmark:品牌 :bookmark:BYD
 - 2024-07-13&nbsp;&nbsp; [品牌](/0005_品牌)&nbsp;&nbsp; :bookmark:品牌
 - 2024-07-01&nbsp;&nbsp; [买车思考](/0004_买车思考)&nbsp;&nbsp; :bookmark:买车思考
 - 2024-06-23&nbsp;&nbsp; [车的分类](/0002_车的分类)&nbsp;&nbsp; :bookmark:车的分类
