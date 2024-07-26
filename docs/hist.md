@@ -1,6 +1,7 @@
 # Wiki History
 
 - 2024-07-26&nbsp;&nbsp; [避坑](/0007_避坑)&nbsp;&nbsp; :bookmark:避坑
+- 2024-07-26&nbsp;&nbsp; [PDI 检测](/0008_提车_PDI)&nbsp;&nbsp; :bookmark:提车 :bookmark:PDI
 - 2024-07-13&nbsp;&nbsp; [品牌](/0005_品牌)&nbsp;&nbsp; :bookmark:品牌
 - 2024-07-13&nbsp;&nbsp; [比亚迪](/0006_品牌_BYD)&nbsp;&nbsp; :bookmark:品牌 :bookmark:BYD
 - 2024-07-01&nbsp;&nbsp; [买车思考](/0004_买车思考)&nbsp;&nbsp; :bookmark:买车思考
