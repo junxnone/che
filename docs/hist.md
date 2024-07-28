@@ -1,6 +1,7 @@
 # Wiki History
 
 - 2024-07-28&nbsp;&nbsp; [元 PLUS](/0010_品牌_BYD_元PLUS)&nbsp;&nbsp; :bookmark:品牌 :bookmark:BYD :bookmark:元PLUS
+- 2024-07-28&nbsp;&nbsp; [宋 PLUS-DMI](/0011_品牌_BYD_宋PLUSdmi)&nbsp;&nbsp; :bookmark:品牌 :bookmark:BYD :bookmark:宋PLUSdmi
 - 2024-07-26&nbsp;&nbsp; [避坑](/0007_避坑)&nbsp;&nbsp; :bookmark:避坑
 - 2024-07-26&nbsp;&nbsp; [PDI 检测](/0008_提车_PDI)&nbsp;&nbsp; :bookmark:提车 :bookmark:PDI
 - 2024-07-26&nbsp;&nbsp; [提车](/0009_提车)&nbsp;&nbsp; :bookmark:提车
