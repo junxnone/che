@@ -4,7 +4,7 @@
 - 2024-08-16&nbsp;&nbsp; [广汽丰田](/0017_品牌_广汽丰田)&nbsp;&nbsp; :bookmark:品牌 :bookmark:广汽丰田
 - 2024-08-16&nbsp;&nbsp; [大众](/0014_品牌_大众)&nbsp;&nbsp; :bookmark:品牌 :bookmark:大众
 - 2024-08-16&nbsp;&nbsp; [广汽传祺](/0016_品牌_广汽传祺)&nbsp;&nbsp; :bookmark:品牌 :bookmark:广汽传祺
-- 2024-08-16&nbsp;&nbsp; [哈佛](/0015_品牌_哈佛)&nbsp;&nbsp; :bookmark:品牌 :bookmark:哈佛
+- 2024-08-16&nbsp;&nbsp; [哈弗](/0015_品牌_哈佛)&nbsp;&nbsp; :bookmark:品牌 :bookmark:哈佛
 - 2024-07-28&nbsp;&nbsp; [宋 PLUS-DMI](/0011_品牌_BYD_宋PLUSdmi)&nbsp;&nbsp; :bookmark:品牌 :bookmark:BYD :bookmark:宋PLUSdmi
 - 2024-07-28&nbsp;&nbsp; [元 PLUS](/0010_品牌_BYD_元PLUS)&nbsp;&nbsp; :bookmark:品牌 :bookmark:BYD :bookmark:元PLUS
 - 2024-07-28&nbsp;&nbsp; [秦PLUS DMI](/0012_品牌_BYD_秦PLUSdmi)&nbsp;&nbsp; :bookmark:品牌 :bookmark:BYD :bookmark:秦PLUSdmi
