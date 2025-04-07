@@ -1,5 +1,6 @@
 # Wiki History
 
+- 2025-04-07&nbsp;&nbsp; [贷款](/0022_车的费用_贷款)&nbsp;&nbsp; :bookmark:车的费用 :bookmark:贷款
 - 2024-08-25&nbsp;&nbsp; [买车的平替方式](/0021_买车思考_买车的平替方式)&nbsp;&nbsp; :bookmark:买车思考 :bookmark:买车的平替方式
 - 2024-08-24&nbsp;&nbsp; [买什么车](/0020_买车思考_买什么车)&nbsp;&nbsp; :bookmark:买车思考 :bookmark:买什么车
 - 2024-08-16&nbsp;&nbsp; [基础](/0019_买车思考_基础)&nbsp;&nbsp; :bookmark:买车思考 :bookmark:基础
@@ -18,6 +19,6 @@
 - 2024-07-13&nbsp;&nbsp; [品牌](/0005_品牌)&nbsp;&nbsp; :bookmark:品牌
 - 2024-07-13&nbsp;&nbsp; [比亚迪](/0006_品牌_BYD)&nbsp;&nbsp; :bookmark:品牌 :bookmark:BYD
 - 2024-07-01&nbsp;&nbsp; [买车思考](/0004_买车思考)&nbsp;&nbsp; :bookmark:买车思考
-- 2024-06-23&nbsp;&nbsp; [选车](/0001_选车)&nbsp;&nbsp; :bookmark:选车
 - 2024-06-23&nbsp;&nbsp; [车的分类](/0002_车的分类)&nbsp;&nbsp; :bookmark:车的分类
+- 2024-06-23&nbsp;&nbsp; [选车](/0001_选车)&nbsp;&nbsp; :bookmark:选车
 - 2024-06-23&nbsp;&nbsp; [车的费用](/0003_车的费用)&nbsp;&nbsp; :bookmark:车的费用
